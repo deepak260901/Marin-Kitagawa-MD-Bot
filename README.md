@@ -35,7 +35,7 @@
 
 #### ✧ Next
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/Marin-Kitagawa-MD-Bot)
 
 
 ## Heroku Deployment Method 2:
